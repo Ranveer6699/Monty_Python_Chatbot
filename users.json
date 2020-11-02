@@ -1,0 +1,51 @@
+{
+     "root": {
+          "name": "root",
+          "personal_information": [],
+          "likes": [],
+          "dislikes": []
+     },
+     "Ranveer": {
+          "name": "Ranveer",
+          "personal_information": [
+               "a swimmer"
+          ],
+          "likes": [
+               "Monty Python and the Holy Grail (1975)",
+               "Monty Python",
+               "Butter Chicken"
+          ],
+          "dislikes": [
+               "An Evening Without Monty Python (2009)",
+               "blue cheese"
+          ]
+     },
+     "Kiana": {
+          "name": "Kiana",
+          "personal_information": [
+               "a Valkyrie"
+          ],
+          "likes": [
+               "Mei's Food",
+               "Palin, Michael",
+               "Aunt Himeko"
+          ],
+          "dislikes": [
+               "Monty Python"
+          ]
+     },
+     "Mei": {
+          "name": "Mei",
+          "personal_information": [],
+          "likes": [
+               "cooking for Kiana",
+               "The Brand New Monty Python Bok (1973)",
+               "a great chef",
+               "Monty Python"
+          ],
+          "dislikes": [
+               "Galaxy Song (1983)",
+               "violence"
+          ]
+     }
+}
