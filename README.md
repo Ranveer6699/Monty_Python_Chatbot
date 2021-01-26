@@ -5,10 +5,6 @@ The code was executed and tested in a PyCharm Virtual environment.
 It would be better if you test the code in Pycharm itself as running it on windows may have some problem as stuff like
 spacy may not install properly there
 
-To run the program in Google Collab
-This is google drive link for the folder
-https://drive.google.com/drive/folders/1JXIfkrcnrC3Cl9aLxTqAL86psyyW8hhN?usp=sharing
-
 Just open the ipynb notebook and hit run. You would need to allow it to access your file system in the first cell
 I am not sure if it will definitely work but if it does, it will be a lot easier to test
 
